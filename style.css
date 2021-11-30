@@ -1,0 +1,80 @@
+.clear {
+  clear: both;
+}
+
+.title {
+  text-align: center;
+}
+
+#menu {
+  margin: 0 auto;
+  width: 420px;
+}
+
+.menu-item {
+  float: left;
+  margin-left: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.menu-item.active {
+  font-weight: bold;
+}
+
+.menu-item:hover {
+  color: #444444;
+}
+
+#timeline {
+  margin-top: 20px;
+}
+
+.news-item {
+  border: 1px solid #bbbbbb;
+  padding: 10px 20px 20px 20px;
+  margin: 10px;
+  width: 800px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.news-item .top {
+  text-align: right;
+}
+
+.news-item .left {
+  float: left;
+  width: 200px;
+}
+
+.news-item .left img {
+  width: 100%;
+}
+
+.news-item .right {
+  float: left;
+  margin-left: 10px;
+  width: 500px;
+}
+
+.news-item .right .news-title {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.news-item .right .news-content {
+}
+.gambar{
+  height: 200px;
+  width: 260px;
+  
+}
+.tempat{
+  padding: 5px;
+  border-style: solid;
+  margin-bottom: 20px; 
+}
+.kanan{
+  float: right;
+}
